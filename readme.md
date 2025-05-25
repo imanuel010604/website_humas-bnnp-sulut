@@ -43,19 +43,19 @@ I enjoy making software so much! Please, if you see any issues make them known!
 ## Preview
 
 ### Homepage
-![screenshot](readme/index.jpg)
+![screenshot](readme/admin.png)
 
 ### Signup Page
-![screenshot](readme/signup.jpg)
+![screenshot](readme/Beranda.png)
 
 ### Signin Page
-![screenshot](readme/login.jpg)
+![screenshot](readme/kontak.png)
 
 ### Dashboard Page
-![screenshot](readme/dashboard.jpg)
+![screenshot](readme/login.png)
 
 ### Update Profile Page
-![screenshot](readme/update.jpg)
+![screenshot](readme/sosial media.png)
 
 ## License
 

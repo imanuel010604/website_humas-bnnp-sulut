@@ -86,18 +86,18 @@ session_start();
 
             <div class="remember">
               <input type="checkbox" class="check" name="remember_me">
-              <label for="remember">Remember me</label>
-              <span><a href="forgot.php">Forgot password</a></span>
+              <label for="remember"></label>
+              <span><a href="forgot.php"></a></span>
             </div>
 
           </div>
 
 
 
-          <input type="submit" name="login" id="submit" value="Login" class="button">
+          <input type="submit" name="login" id="submit" value="" class="button">
 
           <div class="links">
-            Don't have an account? <a href="signup.php">Signup Now</a>
+             <a href="signup.php"></a>
           </div>
 
         </form>
