@@ -207,25 +207,6 @@ if (!isset($_SESSION['username'])) {
         </div>
     </section>
 
-    <!-- about section  -->
-
-    <section class="about-section" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <img src="images/about.jpg" alt="" class="img-fluid">
-                </div>
-                <div class="col-lg-6 col-md-12 col-sm-12 text-content">
-                    <h3>who we are</h3>
-                    <h1>Providing creative and technology services for growing brands.</h1>
-
-                    <p>Our company specializes in research, brand identity design, UI/UX design, development and graphic
-                        design. To help our clients improve their business, we work with them all over the world.</p>
-                    <button>learn more</button>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- project section  -->
 
